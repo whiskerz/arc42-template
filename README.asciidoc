@@ -1,0 +1,10 @@
+== arc42-template
+
+arc42 - the template for software architecture documentation and communication
+
+Initially created by Dr. Gernot Starke and Dr. Peter Hruschka (way back in 2005...),
+free and open source.
+
+== Github Pages
+
+This is the gh-pages branch where the generated artefacts will be deployed soon
